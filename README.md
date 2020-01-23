@@ -1,6 +1,6 @@
 # react-native-todo-app
 
-Simply todo app made using react native paper library and expo platform.
+Simple todo app made using react native paper library and expo platform.
 
 ## Install and run
 
